@@ -7,6 +7,9 @@
     <Description>A simple model to make a processing pipeline.
 Define your functions, plug the queues and throw your data in.</Description>
     <PackageReleaseNotes>Initial version</PackageReleaseNotes>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/NickT-78/SimplePipeline</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NickT-78/SimplePipeline</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
